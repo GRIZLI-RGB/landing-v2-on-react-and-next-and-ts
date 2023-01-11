@@ -1,0 +1,111 @@
+{
+    "company": {
+        "name": "Ёлки-палки",
+        "logo": "/assets/images/logo.png"
+    },
+    "navigation": [
+        {
+            "name": "Продукт",
+            "href": "product"
+        },
+        {
+            "name": "Особенности",
+            "href": "features"
+        },
+
+        {
+            "name": "Цены",
+            "href": "pricing"
+        },
+        {
+            "name": "О нас",
+            "href": "about"
+        }
+    ],
+    "callToAction": {
+        "text": "Заказать",
+        "href": "#"
+    },
+    "mainHero": {
+        "title": "Новогодние",
+        "subtitle": "ёлки.",
+        "description": "Есть идея создания крутой креактивной супер-мега-пупер-ёлки? Тогда обращайтесь к нам за её мгновенным воплощением — медлить нельзя ни в коем случае!",
+        "img": "/assets/images/happyTeam.jpeg",
+        "primaryAction": {
+            "text": "Заказать",
+            "href": "#"
+        },
+        "secondaryAction": {
+            "text": "Связаться",
+            "href": "#"
+        }
+    },
+    "product": {
+        "title": "Мы это...",
+        "items": [
+            {
+                "title": "Креативные идеи",
+                "description": "Создаем такие продукты, которые действительно нравятся нашим клиентам. Вы можете выбрать себе не только простую ёлку, но и любую другую, например, из Интернета.",
+                "img": "/assets/images/product1.jpg"
+            },
+            {
+                "title": "Гениальные решения",
+                "description": "В производстве мы прибегаем к помощи не только современных технологий, но и собственного интеллекта. С помощью богатого воображения, смекалки и должных навыков мы формируем уникальные продукты в сочетании с гениальнейшими решениями.",
+                "img": "/assets/images/product2.jpg"
+            }
+        ]
+    },
+    "features": {
+        "title": "Прошлое & настоящее ",
+        "subtitle": "Лучшие технологии производства!",
+        "description": "Долгое и упорно противостояние с прошлым дало нам шанс и надежду на светлое будущее. Мы, как настоящие профессионалы, с каждым днем совершенствуем технологии производства и растем во всех планах.",
+        "items": []
+    },
+    "pricing": {
+        "title": "Цены",
+        "items": [
+            {
+                "name": "Искусственная ёлка",
+                "price": "2499₽",
+                "priceDetails": "",
+                "features": ["Бесплатная доставка", "Удобно складывается", "Красиво выглядит"]
+            },
+            {
+                "name": "Рандомная ёлка",
+                "price": "2249₽",
+                "priceDetails": "",
+                "features": ["Бесплатная доставка", "Рандомный выбор", "Неожиданный результат"]
+            },
+            {
+                "name": "Живая ёлка",
+                "price": "3599₽",
+                "priceDetails": "",
+                "features": ["Бесплатная доставка", "Вкусно пахнет", "Красиво выглядит"]
+            }
+        ]
+    },
+    "about": {
+        "sections": [
+            {
+                "name": "Контакты",
+                "href": "#",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+            },
+            {
+                "name": "Лицензии",
+                "href": "#",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+            },
+            {
+                "name": "Условия",
+                "href": "#",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+            }
+        ],
+        "socialMedia": {
+            "github": "https://github.com/GRIZLI-RGB",
+            "twitter": "https://twitter.com",
+            "linkedin": "https://www.linkedin.com"
+        }
+    }
+}
